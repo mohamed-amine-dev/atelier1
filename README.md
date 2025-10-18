@@ -8,17 +8,14 @@ Cette application web a été conçue pour démontrer l'implémentation des stan
 ## Stack Technologique
 
 ### Backend
-- **Java EE 9.1** - Plateforme de développement
+- **Java EE** - Plateforme de développement
 - **Servlets & JSP** - Couche de présentation et contrôle
 - **CDI** - Gestion de l'injection de dépendances
-- **JSTL 2.0** - Bibliothèque de tags personnalisés
-
 ### Frontend
 - **Bootstrap 5.1.3** - Framework de design responsive
-- **jQuery 3.6.0** - Interactions client et requêtes asynchrones
 
 ### Base de Données
-- **MySQL 8.0** - Système de gestion de base de données relationnelle
+- **MySQL** - Système de gestion de base de données relationnelle
 
 ### Outils
 - **Maven** - Automatisation de la construction du projet
@@ -75,6 +72,3 @@ Le schéma relationnel comprend 4 tables interconnectées (disponible dans `reso
 
 
 
-## Auteur
-
-[Votre nom]
